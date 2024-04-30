@@ -110,3 +110,14 @@ Aside from that I have some intermediate knowledge of:
 - Future plans: Learn and delve into kernel mode.
 
 In this website I plan to post my writeups for the CTF challenges I am able to solve and a few tips and tricks that I have learnt along the way. I also plan to compile a list of resources for me and others like me to get started in cyber security and advance their skills.
+
+<script src="https://tryhackme.com/badge/2520811"></script>
+
+Here are my socials:
+
+| PLATFORMS                                              |
+|:------------------------------------------------------ |
+| [TryHackMe](https://tryhackme.com/p/VulnX)             |
+| [HackTheBox](https://app.hackthebox.com/users/1821256) |
+| [GitHub](https://github.com/VulnX)                     |
+| [CTFTime](https://ctftime.org/user/171307)             |
