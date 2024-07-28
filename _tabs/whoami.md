@@ -7,7 +7,7 @@ toc: false
 
 # Hi, I am **VulnX**
 
-I am first year Computer Engineering student who loves everything related to computers. I've been learning programming and cyber security for about 6-7 years.
+I am second year Computer Engineering student who loves everything related to computers. I've been learning programming and cyber security for about 6-7 years.
 
 ## Skill list
 
